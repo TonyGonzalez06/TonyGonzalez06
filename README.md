@@ -1,4 +1,4 @@
-<div align="center">Hi, I'm Antonio Avendano
+<div align="center"><h1><strong>Hi, I'm Antonio Avendano </strong><h/1>
  </div>
 
 ## **About Me**
