@@ -7,7 +7,6 @@
 - 18 years old 
 - Learning to program
 
-|                                        **Some Of My Progress**                                               |
 |  Number  |Repository|   About  |   HTML   |    CSS   |   Java   |TypeScript|  Phyton  |     C#    |   Link   |
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|----------|
 |001       |          |          |          |          |          |          |          |           |          |
