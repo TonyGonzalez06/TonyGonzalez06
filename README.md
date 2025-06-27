@@ -10,3 +10,11 @@
 |  Number  |Repository|   About  |   HTML   |    CSS   |   Java   |TypeScript|  Phyton  |     C#    |   Link   |
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|----------|
 |001       | https://github.com/TonyGonzalez06/001-HTMLBasicStructure      |          |     x      |          |          |          |          |           |          |
+|002       | https://github.com/TonyGonzalez06/002-HTMLFormatingStructure          |          |    x      |          |          |          |          |           |          |  
+|003       |          |          |          |          |          |          |          |           |          |    
+|007       |          |          |          |          |          |          |          |           |          | 
+|008       |          |          |          |          |          |          |          |           |          | 
+|009       |          |          |          |          |          |          |          |           |          | 
+|010       |          |          |          |          |          |          |          |           |          | 
+|011       |          |          |          |          |          |          |          |           |          | 
+|012       |          |          |          |          |          |          |          |           |          | 
