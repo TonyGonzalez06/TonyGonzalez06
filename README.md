@@ -9,4 +9,4 @@
 
 |  Number  |Repository|   About  |   HTML   |    CSS   |   Java   |TypeScript|  Phyton  |     C#    |   Link   |
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|----------|
-|001       |          |          |          |          |          |          |          |           |          |
+|001       | https://github.com/TonyGonzalez06/001-HTMLBasicStructure      |          |     x      |          |          |          |          |           |          |
