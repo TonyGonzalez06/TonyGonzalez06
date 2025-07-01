@@ -11,13 +11,8 @@
 |----------|----------|----------|----------|----------|----------|----------|----------|-----------|----------|
 |001       | https://github.com/TonyGonzalez06/001-HTMLBasicStructure      |          |     x      |          |          |          |          |           |          |
 |002       | https://github.com/TonyGonzalez06/002-HTMLFormatingStructure          |          |    x      |          |          |          |          |           |          |  
-<<<<<<< HEAD
 |003       | https://github.com/TonyGonzalez06/003-HTMLFormsAndInput         |          |     x    |          |          |          |          |           |          |    
 |004       | https://github.com/TonyGonzalez06/004-HTMLFrames         |          |     x    |          |          |          |          |           |          | 
-=======
-|003       | https://github.com/TonyGonzalez06/003-HTMLFormsAndInput         |          |    x     |          |          |          |          |           |          |    
-|004       |          |          |          |          |          |          |          |           |          | 
->>>>>>> 47db78d7c6a6ce26a428e808e4bd23632fff62a4
 |005       |          |          |          |          |          |          |          |           |          | 
 |006       |          |          |          |          |          |          |          |           |          | 
 |007       |          |          |          |          |          |          |          |           |          | 
