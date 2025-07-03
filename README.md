@@ -13,7 +13,7 @@
 |002       | https://github.com/TonyGonzalez06/002-HTMLFormatingStructure          |          |    x      |          |          |          |          |           |          |  
 |003       | https://github.com/TonyGonzalez06/003-HTMLFormsAndInput         |          |     x    |          |          |          |          |           |          |    
 |004       | https://github.com/TonyGonzalez06/004-HTMLFrames         |          |     x    |          |          |          |          |           |          | 
-|005       |          |          |          |          |          |          |          |           |          | 
+|005       | https://github.com/TonyGonzalez06/004-HTMLImages         |          |     x    |          |          |          |          |           |          | 
 |006       |          |          |          |          |          |          |          |           |          | 
 |007       |          |          |          |          |          |          |          |           |          | 
 |008       |          |          |          |          |          |          |          |           |          | 
