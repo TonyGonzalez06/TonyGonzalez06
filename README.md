@@ -15,9 +15,9 @@
 |004       | https://github.com/TonyGonzalez06/004-HTMLFrames         |          |     x    |          |          |          |          |           |          | 
 |005       | https://github.com/TonyGonzalez06/004-HTMLImages         |          |     x    |          |          |          |          |           |          | 
 |006       | https://github.com/TonyGonzalez06/006-HTMLAudio-Video         |          |     x    |          |          |          |          |           |          | 
-|007       |          |          |          |          |          |          |          |           |          | 
-|008       |          |          |          |          |          |          |          |           |          | 
-|009       |          |          |          |          |          |          |          |           |          | 
+|007       | https://github.com/TonyGonzalez06/007-HTMLLinks-         |          |   x      |          |          |          |          |           |          | 
+|008       | https://github.com/TonyGonzalez06/008-HTMLLists         |          |      x   |          |          |          |          |           |          | 
+|009       | https://github.com/TonyGonzalez06/009-HTMLTables         |          |      x   |          |          |          |          |           |          | 
 |010       |          |          |          |          |          |          |          |           |          |
 |011       |          |          |          |          |          |          |          |           |          |
 |012       |          |          |          |          |          |          |          |           |          |
