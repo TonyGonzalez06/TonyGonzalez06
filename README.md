@@ -18,6 +18,6 @@
 |007       | https://github.com/TonyGonzalez06/007-HTMLLinks-         |          |   x      |          |          |          |          |           |          | 
 |008       | https://github.com/TonyGonzalez06/008-HTMLLists         |          |      x   |          |          |          |          |           |          | 
 |009       | https://github.com/TonyGonzalez06/009-HTMLTables         |          |      x   |          |          |          |          |           |          | 
-|010       |          |          |          |          |          |          |          |           |          |
-|011       |          |          |          |          |          |          |          |           |          |
-|012       |          |          |          |          |          |          |          |           |          |
+|010       | https://github.com/TonyGonzalez06/010-HTMLStyles-_and_Semantics         |          |    x     |          |          |          |          |           |          |
+|011       | https://github.com/TonyGonzalez06/011-HTMLMeta_Info         |          |       x  |          |          |          |          |           |          |
+|012       | https://github.com/TonyGonzalez06/012-HTMLProgramming#         |          |   x      |          |          |          |          |           |          |
